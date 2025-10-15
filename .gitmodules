@@ -4,3 +4,6 @@
 [submodule "docs/algashop-docs"]
 	path = docs/algashop-docs
 	url = git@github.com:samueljff/ems-algashop-docs.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:samueljff/ems-algashop-docs.git
